@@ -3,9 +3,7 @@
 Habitat Connect has been developed for our Software Engineering (CSE4006) class at Hanyang University.
 
 ## 💡Abstract
-Welcome to Habitat Connect, the web application designed to enhance the sense of community in Hanyang Habitat, our vibrant apartment complex. Our platform is more than just a digital space; it's a bridge connecting residents from diverse cultural backgrounds and making everyday life in our community easier and more enjoyable.
-
-Habitat Connect is not just another web application; it's a testament to the power of technology in fostering a stronger sense of belonging. This platform was born out of the desire to create an inclusive and convenient hub for residents of Hanyang Habitat. We understand that a thriving community is built on communication, collaboration, and convenience, which is precisely what Habitat Connect brings to the table.
+Abstract—Habitat Connect is a web application designed for residents of Hanyang Habitat, our apartment complex, to stay connected, regardless of their cultural backgrounds. Our platform offers features like an announcement board, birthday calendar, washer checker, and maintenance request page. Residents can easily receive important updates, plan events, check laundry availability, and report maintenance concerns – all within a user-friendly interface. With Habitat Connect, we hope to foster a stronger sense of community and make everyday tasks more convenient for everyone in Hanyang Habitat.
 
 <p align="center">
   <img src="https://github.com/HabitatConnect/.github/assets/124285890/6c8ca6ff-66e4-430c-972e-8961643a1769" alt="Hanyang Habitat welcome letters" width="30%" height="30%">
