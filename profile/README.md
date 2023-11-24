@@ -3,7 +3,7 @@
 Habitat Connect has been developed for our Software Engineering (CSE4006) class at Hanyang University.
 
 ## 💡Abstract
-  Habitat Connect is a web application designed for residents of Hanyang Habitat, our apartment complex, to stay connected, regardless of their cultural backgrounds. Our platform offers features like an announcement board, birthday calendar, washer checker, and maintenance request page. 
+Habitat Connect is a web application designed for residents of Hanyang Habitat, our apartment complex, to stay connected, regardless of their cultural backgrounds.  
   
 Residents can easily receive important updates, plan events, check laundry availability, and report maintenance concerns – all within a user-friendly interface. With Habitat Connect, we hope to foster a stronger sense of community and make everyday tasks more convenient for everyone in Hanyang Habitat.
 
