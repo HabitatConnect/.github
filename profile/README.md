@@ -3,9 +3,9 @@
 Habitat Connect has been developed for our Software Engineering (CSE4006) class at Hanyang University.
 
 ## 💡 Abstract
-Habitat Connect is a web application designed for residents of Hanyang Habitat, an apartment complex composed of foreign students, to stay connected, regardless of their cultural backgrounds.  
+Habitat Connect is a web application designed for residents of Hanyang Habitat, an apartment complex composed of foreign students, to stay connected, regardless of their cultural backgrounds – all within a user-friendly interface.
   
-Residents can easily receive important updates, plan events, check laundry availability, and report maintenance concerns – all within a user-friendly interface. With Habitat Connect, we hope to foster a stronger sense of community and make everyday tasks more convenient for everyone in Hanyang Habitat.
+Residents can easily receive important updates, plan events, check laundry availability, report maintenance concerns, and more! With Habitat Connect, we hope to foster a stronger sense of community and make everyday tasks more convenient for everyone in Hanyang Habitat.
 
 <p align="center">
   <img src="https://github.com/HabitatConnect/.github/assets/124285890/6c8ca6ff-66e4-430c-972e-8961643a1769" alt="Hanyang Habitat welcome letters" width="30%" height="30%">
@@ -14,10 +14,11 @@ Residents can easily receive important updates, plan events, check laundry avail
 ## 🔎 Key Features
 Habitat Connect provides the following features:
 
-- Announcement board: stay in the loop with the latest news and updates. The announcement board is your go-to source for important notices, community announcements, and event updates.
-- Birthday Calendar: easy viewing and remembrance of community members’ birthdays.
+- Announcement board: stay in the loop with the latest news and updates. The announcement board is your go-to source for important notices, community announcements, and event updates. Engage with the community in the comment section to share your thoughts.
+- Birthday Calendar: easy viewing and remembrance of community members’ birthdays! Celebrate and connect with the Habitat community on their special day.
 - Laundry Checker: tired of waiting for laundry machines to finish? With our washer checker, you can see real-time availability and plan your laundry routine more efficiently.
-- Maintenance Requests: reporting maintenance concerns is a breeze. No more hassle with phone calls or lengthy processes; you can now submit your requests effortlessly.
+- Maintenance Requests: reporting maintenance concerns in a breeze. No more hassle with phone calls or lengthy processes; you can now submit your requests effortlessly. Keep Hanyang Habitat in top-notch condition!
+- Profile: showcase your personality and creativity with a personalized profile. Express yourself and make connections within our Habitat Connect community.
 
 ## 🫂 Goal
 Our Vision Habitat Connect aims to strengthen the bonds that tie us together in Hanyang Habitat. We want to eliminate the barriers of language, culture, and convenience, so every resident can enjoy the benefits of living in our community to the fullest.
@@ -29,12 +30,12 @@ Join us in making life at Hanyang Habitat even more enjoyable, one click at a ti
 ## 🚀 Team Members
 
 - **Laura Rodríguez López**
-  - *Department:* 💻 Deparment of Computer Science
+  - *Department:* 💻 Department of Computer Science
   - *City:* 🌍 Madrid, Spain
   - *Email:* ✉️ [1postlaura@gmail.com](mailto:1postlaura@gmail.com)
 
 - **Christian Alexander Hernandez**
-  - *Department:* 💻 Deparment of Computer Science
+  - *Department:* 💻 Department of Computer Science
   - *City:* 🌎 Dallas, United States
   - *Email:* ✉️ [ch407541@gmail.com](mailto:ch407541@gmail.com)
  
